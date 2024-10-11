@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Giel Nijkamp!
 
-Welcome to my GitHub profile! I'm a **Consultant at Deloitte Nederland**, specializing in **SAP**, **Digital Transformation**, and **Data Science**. I focus on leveraging advanced technologies like **Generative AI** and **automation** to optimize processes in procurement, supply chain, and beyond.
+Welcome to my GitHub profile! I'm a **Consultant at Deloitte Nederland**.
 
 ---
 
 ### 🚀 About Me
 
 - 💼 **Current Role**: Consultant at Deloitte Nederland
-- 💡 **Expertise**: SAP Implementation, AI Integration, Procurement Optimization, Data Science
+- 💡 **Expertise**: SAP Implementation, AI Integration, Procurement Optimization
 - 🎓 **Research Interests**: Generative AI, AI Assistants (AIA), Organizational Transformation
 
 I am passionate about using technology to drive efficiency and innovation within organizations, and I enjoy tackling complex challenges in **AI implementation** and **digital transformation**.
