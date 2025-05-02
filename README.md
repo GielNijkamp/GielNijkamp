@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Giel Nijkamp!
 
-Welcome to my GitHub profile! I'm a **Consultant at Deloitte Nederland**.
+Welcome to my GitHub profile!
 
 ---
 
 ### 🚀 About Me
 
-- 💼 **Current Role**: Consultant at Deloitte Nederland
-- 💡 **Expertise**: SAP Implementation, AI Integration, Procurement Optimization
-- 🎓 **Research Interests**: Generative AI, AI Assistants (AIA), Organizational Transformation
+- 💼 **Current Role**: Data Engineer at Deloitte Nederland
+- 💡 **Expertise**: SAP Implementation, Data Engineer
+- - 🎓 **Research Interests**: Generative AI, AI Assistants (AIA), Organizational Transformation
 
 I am passionate about using technology to drive efficiency and innovation within organizations, and I enjoy tackling complex challenges in **AI implementation** and **digital transformation**.
 
@@ -19,7 +19,7 @@ I am passionate about using technology to drive efficiency and innovation within
 - **Programming Languages**: Python, Bash
 - **Data Science Tools**: Jupyter, Pandas, NumPy
 - **Automation**: Generative AI, Supply Chain Processes
-- **Platforms**: WSL (Windows Subsystem for Linux), Linux (Ubuntu), Miniconda, Conda
+- **Platforms**: WSL (Windows Subsystem for Linux), Linux (Ubuntu), Conda
 
 ---
 
@@ -34,10 +34,6 @@ I am passionate about using technology to drive efficiency and innovation within
 - 🌐 **[LinkedIn](https://www.linkedin.com/in/giel-nijkamp/)**  
 - 📧 Email: gielnijkamp@gmail.com
 
----
-
-### ✨ Fun Fact
-I enjoy playing competitive basketbal in my free time.
 ---
 
 *“Technology is best when it brings people together.” — Matt Mullenweg*
