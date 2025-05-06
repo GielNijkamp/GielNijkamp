@@ -6,9 +6,9 @@ Welcome to my GitHub profile!
 
 ### 🚀 About Me
 
-- 💼 **Current Role**: Data Engineer at Deloitte Nederland
+- 💼 **Current Role**: Data Management & Engineer at Deloitte Nederland
 - 💡 **Expertise**: SAP Implementation, Data Engineer
-- - 🎓 **Research Interests**: Generative AI, AI Assistants (AIA), Organizational Transformation
+- 🎓 **Research Interests**: Generative AI, AI Assistants (AIA), Organizational Transformation
 
 I am passionate about using technology to drive efficiency and innovation within organizations, and I enjoy tackling complex challenges in **AI implementation** and **digital transformation**.
 
