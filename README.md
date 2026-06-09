@@ -23,6 +23,7 @@ I am passionate about using technology to drive efficiency and innovation within
 
 - 🌐 **[LinkedIn](https://www.linkedin.com/in/giel-nijkamp/)**  
 - 📧 Email: gielnijkamp@gmail.com
+- 🌐 **[TOVY](https://www.tovy.eu/?utm_source=github&utm_medium=profile&utm_campaign=readme_link)**
 
 ---
 
