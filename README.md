@@ -1,30 +1,25 @@
-# Hi, I'm Giel Nijkamp!
+# Hi, I'm Giel Nijkamp 👋
 
-Welcome to my GitHub profile!
+I run **[Tovy](https://www.tovy.eu/?utm_source=github&utm_medium=profile&utm_campaign=readme_link)** — I help companies ship
+reliable AI tooling, data pipelines, and web apps that actually make it to production.
 
----
-
-### 🚀 About Me
-
-- **Current Role**: Data Engineer at Rabobank Nederland
-
-I am passionate about using technology to drive efficiency and innovation within organizations, and I enjoy tackling complex challenges in **tech** and **digital transformation**.
+I combine software engineering, data management, and supply-chain process
+knowledge to boost business growth and continuity.
 
 ---
 
-### 🔧 Skills & Technologies
+### 🔧 What I do for clients
 
-- **Programming Languages**: Python, TSQL, Bash
-- **Data Tools**: Jupyter, Pandas, NumPy
+- **AI tooling** — practical LLM/GenAI apps and agents wired into real workflows
+- **Data engineering** — pipelines, warehousing, and analytics that teams can trust
+- **Web development** — full-stack apps from prototype to production
 
----
-
-### 📫 Let's Connect
-
-- 🌐 **[LinkedIn](https://www.linkedin.com/in/giel-nijkamp/)**  
-- 📧 Email: gielnijkamp@gmail.com
-- 🌐 **[TOVY](https://www.tovy.eu/?utm_source=github&utm_medium=profile&utm_campaign=readme_link)**
+**Stack:** Python · TypeScript · SQL · Bash · DuckDB · Pandas · Jupyter
 
 ---
 
-*“Technology is best when it brings people together.” — Matt Mullenweg*
+### 📫 Let's work together
+
+- 🌐 **[tovy.eu](https://www.tovy.eu/?utm_source=github&utm_medium=profile&utm_campaign=readme_link)** — what I do & how to reach me
+- 💼 **[LinkedIn](https://www.linkedin.com/in/giel-nijkamp/)**
+- 📧 info@tovy.eu
